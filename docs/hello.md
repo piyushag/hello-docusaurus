@@ -16,7 +16,7 @@ public String sayHello() {
 
 :::tip[Tip 1]
 
-Drive slow to maximize fuel efficiency.
+Drive slow to maximize fuel efficiency and have more fun while driving.
 
 :::
 
